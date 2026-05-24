@@ -55,6 +55,13 @@ streamlit run app.py
 
 ---
 
+## Data files
+
+Download NEISS CSV files here:
+[NEISS Data (Google Drive)](https://drive.google.com/file/d/1twC-5RvXyj89hlHH0M__cluyCWjWS7iG/view?usp=sharing)
+
+Unzip and place the CSV files in the `data/` folder inside the app bundle.
+
 ## Limitations
 
 - Comparative statistics are unweighted — survey-weighted methods recommended before publication
