@@ -1,0 +1,21 @@
+# NEISS data files (download separately from CPSC)
+data/
+
+# Built app and build cache
+dist/
+build_tmp/
+
+# DuckDB database (generated at runtime)
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+.venv/
